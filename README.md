@@ -8,6 +8,7 @@ It follows the Page Object Model (POM) design pattern for better code reusabilit
 
 The framework uses PyTest for test execution and PyTest-HTML for generating detailed HTML reports.
 
+
 🧰 Tools and Technologies Used
 
 Programming Language: Python
@@ -21,6 +22,7 @@ Design Pattern: Page Object Model (POM)
 Reporting Tool: PyTest-HTML
 
 Browser: Google Chrome
+
 
 📂 Project Structure
 
@@ -54,6 +56,7 @@ TryTestingThis.com-Login-Page-Automation/
 
 └── requirements.txt           # Dependencies list
 
+
 ✅ Test Scenario – Verify Successful Login
 
 | Step | Action                                                | Expected Result                            |
@@ -71,6 +74,7 @@ TryTestingThis.com-Login-Page-Automation/
 | 6    | Capture screenshot                                    | Screenshot saved in `/screenshots/` folder |
 
 
+
 📊 Test Execution Summary
 
 | Result    | Count | Duration |
@@ -80,6 +84,7 @@ TryTestingThis.com-Login-Page-Automation/
 | ❌ Failed  | 0     | —        |
 
 | ⏩ Skipped | 0     | —        |
+
 
 
 🧠 Key Highlights
@@ -93,6 +98,7 @@ Managed execution with PyTest framework
 Generated HTML Reports for test results
 
 Captured screenshot after successful login
+
 
 👩‍💻 Author
 
