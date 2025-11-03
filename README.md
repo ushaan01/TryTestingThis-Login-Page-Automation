@@ -8,6 +8,8 @@ It follows the Page Object Model (POM) design pattern for better code reusabilit
 
 The framework uses PyTest for test execution and PyTest-HTML for generating detailed HTML reports.
 
+It verifies that the login process works successfully using valid credentials and generates a detailed HTML report with test results.
+
 
 🧰 Tools and Technologies Used
 
