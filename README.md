@@ -2,7 +2,7 @@
 
 📋 Project Overview
 
-This project automates the Login Page functionality of TryTestingThis.com using Selenium WebDriver with Python.
+This project automates the Login Page functionality of TryTestingThis.com using Selenium WebDriver with Python. 
 
 It follows the Page Object Model (POM) design pattern for better code reusability and maintenance.
 
