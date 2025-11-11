@@ -106,6 +106,8 @@ Captured screenshot after successful login
 
 Usha Nazare
 
+| Project Type           | Practice Project   |
+
 Aspiring Automation Tester | Selenium with Python Enthusiast
 
 
